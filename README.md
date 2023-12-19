@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on a hospital website for E-Health
+- 🌱 I’m currently learning DevOps 
+- 👯 I’m looking to collaborate on open-source projects
+- 🤔 I’m looking for help with 
+- 💬 Ask me about DevOps
+- 📫 How to reach me: linkedln,facebook
+- 😄 Pronouns: DevOps,Computer hardware and software maintainer, phone maintainer
+- ⚡ Fun fact: ...
 
 <!--
 **Sympathylesi/sympathylesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
